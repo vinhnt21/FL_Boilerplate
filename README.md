@@ -1,6 +1,6 @@
 ### documents
 
-- anh custom theo waterfall cho phù hợp với anh thôi, mỗi folder chứ doc 1 giai đoạn của project, cần thì tìm lại cũng dễ
+- anh custom theo waterfall cho phù hợp với anh thôi, mỗi folder chứa doc 1 giai đoạn của project, cần thì tìm lại cũng dễ
 
 ##### discovery
 
@@ -9,7 +9,7 @@
 ##### requirement
 
 - overview liệt kê các feature của dự án (mô tả từ góc nhìn user, không phải dev)
-  - ví dụ tạo mindmap từ mô
+  - ví dụ tạo mindmap từ mô tả (kiểu như user story ấy)
 - scope cho từng feature
   - làm gì
   - không làm gì, cái này quan trọng, giúp tránh overthinking
